@@ -1,9 +1,9 @@
 # CardioWell
 
-See live preview: <https://careportal.cardiowell.io>
-                  Test Credintail:
-                    - User: testprovider
-                    - Password: Password1!
+1. See live preview: <https://careportal.cardiowell.io>
+1.                  Test Credintail:
+1.                    - User: testprovider
+1.                    - Password: Password1!
 
 
 ## Quick start guide
