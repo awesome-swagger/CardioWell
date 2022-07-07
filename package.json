@@ -15,7 +15,7 @@
     "jquery": "^3.5.1",
     "jspdf": "^1.5.3",
     "mdbreact": "^4.26.0",
-    "moment": "2.24",
+    "moment": "2.29",
     "moment-timezone": "0.5.13",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
@@ -27,7 +27,7 @@
     "socket.io-client": "^2.3.0"
   },
   "resolutions": {
-    "moment": "2.24.0"
+    "moment": "2.29.4"
   },
   "scripts": {
     "start": "set HTTPS=true&&react-scripts start",
